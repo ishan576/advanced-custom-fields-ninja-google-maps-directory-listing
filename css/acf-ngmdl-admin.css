@@ -1,0 +1,28 @@
+/* Admin CSS*/
+.acf_ngmdl .banner-img{
+	overflow: hidden;
+    padding: 20px 0;
+}
+.acf_ngmdl .banner-img .img{
+	text-align: center; 
+}
+.acf_ngmdl .banner-img .img a:focus {
+    box-shadow: none;
+}
+.acf_ngmdl .banner-img form input {
+    float: none;
+}
+.acf_ngmdl .welcome-panel-column{
+	padding-bottom: 23px;
+    width: 100% !important;
+}
+.acf_ngmdl .welcome-panel h4{
+	margin: 0 0 1.33em;
+}
+.acf_ngmdl .welcome-panel-column p{
+	line-height: 25px;
+}
+.acf_ngmdl input {
+    float: left;
+    margin: 0 10px 0 0;
+}
